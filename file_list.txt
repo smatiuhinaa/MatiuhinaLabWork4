@@ -1,0 +1,13 @@
+total 0
+-rw-r--r-- 1 Sanya 197121 0 Apr 18 20:13 file_list.txt
+total 1
+-rw-r--r-- 1 Sanya 197121 63 Apr 18 20:13 file_list.txt
+total 1
+-rw-r--r-- 1 Sanya 197121 127 Apr 19 15:07 file_list.txt
+total 1
+-rw-r--r-- 1 Sanya 197121 192 Apr 19 15:10 file_list.txt
+total 1
+-rw-r--r-- 1 Sanya 197121 257 Apr 19 15:20 file_list.txt
+total 5
+-rw-r--r-- 1 Sanya 197121 782 Apr 19 15:58 example5.html
+-rw-r--r-- 1 Sanya 197121 322 Apr 19 15:33 file_list.txt
